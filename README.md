@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Full Stack Developer</h3>
 
 
-- 💬 Ask me about **JavaScript CSS HTML**
+- 💬 Ask me about **Android XML CSS HTML**
 
 - 📫 How to reach me **paulojuca27@gmail.com**
 
